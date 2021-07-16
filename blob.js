@@ -1,7 +1,11 @@
+// Jim Laderoute
+// https://github.com/JimLaderoute/lavalamp
+//
+// Based on code written by:
 // Basile Pesin
 // http://vertmo.github.io
 
-// MetaBalls : p5.js implementation
+// LavaLamp : p5.js implementation
 
 class Blob {
   constructor(x, y) {
